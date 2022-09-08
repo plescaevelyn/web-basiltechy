@@ -6,7 +6,7 @@ We participated at the web section of the hackathon and got into the semifinals.
 # Theme
 
 The theme of the website that we created is travel, therefore we created a travel website. 
-It includes an index (main) page, an About Us page and a Contact page. 
+It includes an index (main) page, an About Us page, a Contact page and a Covid-19 page that has some codes regarding the tests, because this hackathon was held in the middle of the Covid 19 pandemic, when we needed to get some tests done before travelling :). 
 
 # Technologies
 
